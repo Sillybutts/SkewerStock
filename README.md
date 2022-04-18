@@ -1,6 +1,10 @@
 #Skewer Stock
 A stock for the Skewer by Charamile Designs.
 
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%201.png" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%202.png" width="500">
+
+
 ## Description
 
 This kit uses 2x 10-32 7.75 inch threaded rods, and 4x 10-32 nuts.
@@ -39,4 +43,8 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%201.png" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%202.png" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%203.png" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%204.png" width="500">
+<img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%205.png" width="500">
