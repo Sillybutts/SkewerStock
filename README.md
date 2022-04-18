@@ -7,7 +7,15 @@ A stock for the Skewer by Charamile Designs.
 
 ## Description
 
+This is a stock for the Skewer. It replaces the BackCap, and the T pull. It replaces no other parts. 
+
+The stock is basically a modified version of my SkewBow design's stock. So this is basically putting a modified 1995 Crossbow stock onto your Skewer!
+
+## Hardware and Print Settings
+
 This kit uses 2x 10-32 7.75 inch threaded rods, and 4x 10-32 nuts.
+
+All STLs were exported in print orientation. STEP and F3D source files are also included.
 
 Print all parts at 5 walls, 20% infill for best results. I recommend Gyroid infill.
 
@@ -15,11 +23,20 @@ Some parts might turn out cleaner if you use supports, though it isn't strictly 
 
 The MidStockA and MidStockB have a little built-in brim in where it interlocks with the StockBack. Remove these brims before assembly.
 
-All STLs were exported in print orientation. STEP and F3D source files are also included.
+
+
+## Assembly
+
+To assemble, build your Skewer as normal. Once it is done, then add on the stock parts. 
+
+Make sure the threaded rods don't poke out the back of the stock. If they do, thread them in further. 
+
+When adding the stock, make sure the T pull is rotated correctly. The slightly longer side faces down.
+
 
 ## Misc.
 
-**If you make any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
+**If you build any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
