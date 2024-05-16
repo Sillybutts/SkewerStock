@@ -5,6 +5,10 @@ A stock for the Skewer by Charamile Designs.
 <img src="GHimages/CX_Skewer1.2p%20Silly%20Edits%20v22%202.png" width="500">
 
 
+<a href="https://www.printables.com/model/875232-skewer-stock"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875232-skewer-stock
+
 ## Description
 
 This is a stock for the Skewer. It replaces the BackCap, and the T pull. It replaces no other parts. 
